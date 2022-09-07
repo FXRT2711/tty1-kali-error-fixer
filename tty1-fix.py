@@ -83,5 +83,5 @@ elif select_wm == ("GNOME") or ("gnome"):
 else:
     print ("something went wrong \n")
     print ("the proggram will restart ")
-    os.system ("/bin/python /home/fert2711/Documents/m.p.o.v/tty1-fix.py")
+    os.system ("/bin/python tty1-fix.py")
     exit()
